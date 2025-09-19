@@ -86,6 +86,7 @@
 
 ### 2. 🗃️ Tạo cơ sở dữ liệu và người dùng (ví dụ):
 
+```sql
 CREATE DATABASE dictionarydb;
 CREATE USER 'root'@'localhost' IDENTIFIED BY 'PASSWORD';
 GRANT ALL PRIVILEGES ON dictionarydb.* TO 'root'@'localhost';
@@ -97,6 +98,7 @@ FLUSH PRIVILEGES;
 ### 3.3. Cấu hình kết nối CSDL
 
 Cập nhật thông tin kết nối MySQL trong file DatabaseHelper.java:
+```java
 private static final String URL = "jdbc:mysql://localhost:3306/dictionarydb?useSSL=false&serverTimezone=UTC";
 private static final String USER = "root";           // tên người dùng MySQL
 private static final String PASS = "PASSWORD";       // mật khẩu MySQL
@@ -116,16 +118,19 @@ Bạn có thể chạy theo nhiều cách:
 ⚙️ Cách B: Chạy thủ công bằng javac / java
 
 🏗️ Biên dịch:
+```java
 
 javac -cp "lib/mysql-connector-java-8.0.33.jar" -d target/classes src/tudien/*.java
 
 
 ▶️ Chạy Server:
+```java
 
 java -cp "target/classes;lib/mysql-connector-java-8.0.33.jar" tudien.Server
 
 
 ▶️ Chạy Client:
+```java
 
 java -cp "target/classes;lib/mysql-connector-java-8.0.33.jar" tudien.Client
 
