@@ -70,3 +70,23 @@
 ### 📊 Data Management
 - MySQL để lưu trữ từ điển và tài khoản người dùng  
 - JDBC để kết nối và thực hiện các thao tác CRUD  
+
+3. Các bước cài đặt
+3.1. Yêu cầu hệ thống
+
+🪟 Windows / Linux / macOS
+
+☕ Java 8 trở lên (kiểm tra bằng java -version)
+
+🐬 MySQL Server 5.7+ (khuyến nghị 8.0+)
+
+4.2. Cài đặt và chuẩn bị CSDL
+
+📥 Tải và cài đặt MySQL Server từ trang chính thức: https://dev.mysql.com/downloads/mysql/
+
+🗃️ Tạo cơ sở dữ liệu và người dùng (ví dụ):
+
+CREATE DATABASE dictionarydb;
+CREATE USER 'root'@'localhost' IDENTIFIED BY 'PASSWORD';
+GRANT ALL PRIVILEGES ON dictionarydb.* TO 'root'@'localhost';
+FLUSH PRIVILEGES;
