@@ -156,3 +156,6 @@ Giao diện dịch từ tiếng Anh sang tiếng Việt:
 Giao diện dịch từ tiếng Việt sang tiếng Anh:
 
 <img width="686" height="494" alt="image" src="https://github.com/user-attachments/assets/c1341a24-26ee-4644-9bf5-fb3680cd7132" />
+
+##### 📫 5. Liên hệ
+✉️ Liên hệ email: ngkhoinguyen2912@gmail.com
