@@ -2,7 +2,9 @@
 
 # ỨNG DỤNG TRA CỨU TỪ ĐIỂN ANH-VIỆT
 
-![AIoTLab Logo](link-to-aiotlab-logo) ![DaiNam University Logo](link-to-dainam-logo)
+![AIoTLab Logo]<img width="1508" height="1687" alt="image" src="https://github.com/user-attachments/assets/e8c508f6-80cd-484b-9077-e296e56cf2ca" />
+ ![DaiNam University Logo]![Uploading image.png…]()
+
 
 **AIoTLab** – Faculty of Information Technology, DaiNam University
 
