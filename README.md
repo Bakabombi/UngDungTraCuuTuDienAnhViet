@@ -1,2 +1,2 @@
-# UngDungTraCuuTuDienAnhViet
-Ứng dụng tra cứu từ điển Anh - Việt
+🎓 Faculty of Information Technology (DaiNam University)
+ỨNG DỤNG TRA CỨU TỪ ĐIỂN ANH VIỆT
