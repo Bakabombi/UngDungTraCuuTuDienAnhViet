@@ -135,6 +135,8 @@ java -cp "target/classes;lib/mysql-connector-java-8.0.33.jar" tudien.Client
 
 💡 Mặc định server lắng nghe trên localhost:1234 (thay đổi trong mã nguồn nếu cần).
 
+---
+
 #### 🖼️ 4. Một số hình ảnh hệ thống
 💻 Đăng nhập/Đăng ký:
 <img width="263" height="170" alt="image" src="https://github.com/user-attachments/assets/fae47891-3d99-4b4f-bbef-7ba0408e2be6" /> <br> <br>
@@ -157,5 +159,9 @@ Giao diện dịch từ tiếng Việt sang tiếng Anh:
 
 <img width="686" height="494" alt="image" src="https://github.com/user-attachments/assets/c1341a24-26ee-4644-9bf5-fb3680cd7132" />
 
+---
+
 ##### 📫 5. Liên hệ
 ✉️ Liên hệ email: ngkhoinguyen2912@gmail.com
+
+---
