@@ -40,7 +40,7 @@
 
 ---
 
-## 2. 💻 CÔNG NGHỆ SỬ DỤNG
+## 2. 💻 Công nghệ sử dụng
 
 <p align="center">
   <a href="#">
