@@ -42,6 +42,23 @@
 
 ## 2. 💻 CÔNG NGHỆ SỬ DỤNG
 
+<p align="center">
+  <a href="#">
+    <img width="57" height="28" alt="image" src="https://github.com/user-attachments/assets/961ef281-19f1-47fd-ad75-b5f940846e46" />
+      </a>
+  <a href="#">
+    <img width="109" height="28" alt="image" src="https://github.com/user-attachments/assets/255ad8dc-b730-4f6d-8461-608bd0395b7f" />
+      </a>
+  <a href="#">
+    <img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/7b74b430-dd1f-4c8d-8ab6-4355cf7f28be" />
+  </a>
+  <a href='#'>
+    <img width="146" height="28" alt="image" src="https://github.com/user-attachments/assets/cadf7012-7926-4ece-9216-b1ba9bc45d18" />
+  </a> 
+</p>
+
+---
+
 ### 🖥️ Client
 - Java Swing cho giao diện đồ họa  
 - Xử lý sự kiện, tra cứu và quản lý từ điển  
@@ -53,14 +70,3 @@
 ### 📊 Data Management
 - MySQL để lưu trữ từ điển và tài khoản người dùng  
 - JDBC để kết nối và thực hiện các thao tác CRUD  
-
-<p align="center">
-  <a href="#">
-    <img width="57" height="28" alt="image" src="https://github.com/user-attachments/assets/b02a53bc-a56d-4613-af3c-dcddeeb66fc6" />
-" />
-  </a>
-  <a href="#">
-    <img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/97f98598-a89d-4ebb-8fac-d86ba529ee52" />
-  </a>
-</p>
-
