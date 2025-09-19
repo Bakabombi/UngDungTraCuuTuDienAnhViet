@@ -43,10 +43,26 @@
 ## 2. 💻 CÔNG NGHỆ SỬ DỤNG
 
 ### 🖥️ Client
-- [Liệt kê công nghệ client, ví dụ: Java Swing, Flutter, React,...]
+- Java Swing cho giao diện đồ họa  
+- Xử lý sự kiện, tra cứu và quản lý từ điển  
 
 ### 🗄️ Server
-- [Liệt kê công nghệ server, ví dụ: Java, Python Flask, Node.js,...]
+- Java Socket cho mô hình Client-Server  
+- Xử lý yêu cầu, phản hồi từ Client  
 
 ### 📊 Data Management
-- [Chi tiết quản lý dữ liệu: MySQL, MongoDB, file CSV,...]
+- MySQL để lưu trữ từ điển và tài khoản người dùng  
+- JDBC để kết nối và thực hiện các thao tác CRUD  
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/AiOTLab-green?style=for-the-badge" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Faculty%20of%20Information%20Technology-blue?style=for-the-badge" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge" />
+  </a>
+</p>
+
