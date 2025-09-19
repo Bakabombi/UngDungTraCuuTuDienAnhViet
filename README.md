@@ -134,3 +134,16 @@ java -cp "target/classes;lib/mysql-connector-java-8.0.33.jar" tudien.Client
 ```
 
 💡 Mặc định server lắng nghe trên localhost:1234 (thay đổi trong mã nguồn nếu cần).
+
+#### 🖼️ 4. Một số hình ảnh hệ thống
+💻 Đăng nhập/Đăng ký:
+<img width="263" height="170" alt="image" src="https://github.com/user-attachments/assets/fae47891-3d99-4b4f-bbef-7ba0408e2be6" />
+<img width="263" height="167" alt="image" src="https://github.com/user-attachments/assets/ace53a5f-ad6d-4fad-8bf9-7b9539c0f341" />
+🖥️ Giao diện Server:
+<img width="686" height="493" alt="image" src="https://github.com/user-attachments/assets/7ed518db-a076-454d-a0bc-c492edffc506" />
+💻 Giao diện Client:
+<img width="689" height="488" alt="image" src="https://github.com/user-attachments/assets/ca3c1f3f-7e49-45d6-b1c9-833f4ef0e4fa" />
+Giao diện dịch từ tiếng Anh sang tiếng Việt:
+<img width="685" height="493" alt="image" src="https://github.com/user-attachments/assets/e098fb84-e5ab-4eb5-a126-c2a250f4ab19" />
+Giao diện dịch từ tiếng Việt sang tiếng Anh:
+<img width="686" height="494" alt="image" src="https://github.com/user-attachments/assets/c1341a24-26ee-4644-9bf5-fb3680cd7132" />
