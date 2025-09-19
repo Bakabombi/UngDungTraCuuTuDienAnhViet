@@ -91,6 +91,7 @@ CREATE DATABASE dictionarydb;
 CREATE USER 'root'@'localhost' IDENTIFIED BY 'PASSWORD';
 GRANT ALL PRIVILEGES ON dictionarydb.* TO 'root'@'localhost';
 FLUSH PRIVILEGES;
+```
 
 ### 3. 🧩 Khởi tạo bảng và dữ liệu mẫu bằng file schema.sql (nếu có):
    mysql -u root -p dictionarydb < database/schema.sql
@@ -102,7 +103,7 @@ Cập nhật thông tin kết nối MySQL trong file DatabaseHelper.java:
 private static final String URL = "jdbc:mysql://localhost:3306/dictionarydb?useSSL=false&serverTimezone=UTC";
 private static final String USER = "root";           // tên người dùng MySQL
 private static final String PASS = "PASSWORD";       // mật khẩu MySQL
-
+```
 ### 3.4. Build và chạy ứng dụng
 
 Bạn có thể chạy theo nhiều cách:
@@ -119,20 +120,17 @@ Bạn có thể chạy theo nhiều cách:
 
 🏗️ Biên dịch:
 ```java
-
 javac -cp "lib/mysql-connector-java-8.0.33.jar" -d target/classes src/tudien/*.java
-
+```
 
 ▶️ Chạy Server:
 ```java
-
 java -cp "target/classes;lib/mysql-connector-java-8.0.33.jar" tudien.Server
-
+```
 
 ▶️ Chạy Client:
 ```java
-
 java -cp "target/classes;lib/mysql-connector-java-8.0.33.jar" tudien.Client
-
+```
 
 💡 Mặc định server lắng nghe trên localhost:1234 (thay đổi trong mã nguồn nếu cần).
