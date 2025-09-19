@@ -56,13 +56,11 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/AiOTLab-green?style=for-the-badge" />
+    <img width="57" height="28" alt="image" src="https://github.com/user-attachments/assets/b02a53bc-a56d-4613-af3c-dcddeeb66fc6" />
+" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Faculty%20of%20Information%20Technology-blue?style=for-the-badge" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge" />
+    <img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/97f98598-a89d-4ebb-8fac-d86ba529ee52" />
   </a>
 </p>
 
