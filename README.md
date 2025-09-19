@@ -24,7 +24,7 @@
 
 ---
 
-# 1. 📖 Giới thiệu
+## 1. 📖 Giới thiệu
 
 **Từ Điển Anh-Việt** là ứng dụng từ điển trực tuyến được phát triển theo mô hình **Client-Server**, cho phép người dùng tra cứu từ vựng Anh-Việt và Việt-Anh một cách nhanh chóng và hiệu quả. Ứng dụng hỗ trợ tính năng **gợi ý từ khóa thông minh**, hiển thị đầy đủ thông tin bao gồm **nghĩa, từ loại và ví dụ minh họa**.
 
@@ -71,8 +71,8 @@
 - MySQL để lưu trữ từ điển và tài khoản người dùng  
 - JDBC để kết nối và thực hiện các thao tác CRUD  
 
-### 3. Các bước cài đặt
-#### 3.1. Yêu cầu hệ thống
+## 3. Các bước cài đặt
+# 3.1. Yêu cầu hệ thống
 
 🪟 Windows / Linux / macOS
 
@@ -80,7 +80,7 @@
 
 🐬 MySQL Server 5.7+ (khuyến nghị 8.0+)
 
-#### 3.2. Cài đặt và chuẩn bị CSDL
+# 3.2. Cài đặt và chuẩn bị CSDL
 
 # 1. 📥 Tải và cài đặt MySQL Server từ trang chính thức: https://dev.mysql.com/downloads/mysql/
 
@@ -94,14 +94,14 @@ FLUSH PRIVILEGES;
 # 3. 🧩 Khởi tạo bảng và dữ liệu mẫu bằng file schema.sql (nếu có):
    mysql -u root -p dictionarydb < database/schema.sql
 
-#### 3.3. Cấu hình kết nối CSDL
+# 3.3. Cấu hình kết nối CSDL
 
 Cập nhật thông tin kết nối MySQL trong file DatabaseHelper.java:
 private static final String URL = "jdbc:mysql://localhost:3306/dictionarydb?useSSL=false&serverTimezone=UTC";
 private static final String USER = "root";           // tên người dùng MySQL
 private static final String PASS = "PASSWORD";       // mật khẩu MySQL
 
-#### 3.4. Build và chạy ứng dụng
+# 3.4. Build và chạy ứng dụng
 
 Bạn có thể chạy theo nhiều cách:
 
