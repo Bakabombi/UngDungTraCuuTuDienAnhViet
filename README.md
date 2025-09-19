@@ -8,8 +8,6 @@
   <img src="dnu_logo.png" alt="Dai Nam University" width="150"/>
 </p>
 
----
-
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/AiOTLab-green?style=for-the-badge" />
@@ -27,8 +25,6 @@
 ## 1. 📖 Giới thiệu
 
 **Từ Điển Anh-Việt** là ứng dụng từ điển trực tuyến được phát triển theo mô hình **Client-Server**, cho phép người dùng tra cứu từ vựng Anh-Việt và Việt-Anh một cách nhanh chóng và hiệu quả. Ứng dụng hỗ trợ hiển thị đầy đủ thông tin bao gồm **nghĩa, định nghĩa**
-
----
 
 ## ✨ Tính năng nổi bật
 
@@ -68,6 +64,8 @@
 ### 📊 Data Management
 - MySQL để lưu trữ từ điển và tài khoản người dùng  
 - JDBC để kết nối và thực hiện các thao tác CRUD  
+
+---
 
 ## 3. Các bước cài đặt
 ### 3.1. Yêu cầu hệ thống
