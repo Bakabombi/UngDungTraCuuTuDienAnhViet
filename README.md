@@ -87,10 +87,9 @@
 ### 2. 🗃️ Tạo cơ sở dữ liệu và người dùng (ví dụ):
 
 ```sql
-CREATE DATABASE dictionarydb;
-CREATE USER 'root'@'localhost' IDENTIFIED BY 'PASSWORD';
-GRANT ALL PRIVILEGES ON dictionarydb.* TO 'root'@'localhost';
-FLUSH PRIVILEGES;
+CREATE DATABASE IF NOT EXISTS dictionarydb
+CREATE TABLE users
+CREATE TABLE dictionary
 ```
 
 ### 3. 🧩 Khởi tạo bảng và dữ liệu mẫu bằng file schema.sql (nếu có):
@@ -106,17 +105,7 @@ private static final String PASS = "PASSWORD";       // mật khẩu MySQL
 ```
 ### 3.4. Build và chạy ứng dụng
 
-Bạn có thể chạy theo nhiều cách:
-
-🚀 Cách A: Dùng script (Windows)
-
-🧱 Build: chạy build.bat
-
-🖧 Chạy Server: chạy run-server.bat
-
-💻 Chạy Client: chạy run-client.bat
-
-⚙️ Cách B: Chạy thủ công bằng javac / java
+⚙️ Chạy thủ công bằng javac / java
 
 🏗️ Biên dịch:
 ```java
