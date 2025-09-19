@@ -90,3 +90,4 @@ CREATE DATABASE dictionarydb;
 CREATE USER 'root'@'localhost' IDENTIFIED BY 'PASSWORD';
 GRANT ALL PRIVILEGES ON dictionarydb.* TO 'root'@'localhost';
 FLUSH PRIVILEGES;
+
