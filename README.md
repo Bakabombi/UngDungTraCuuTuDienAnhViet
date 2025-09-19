@@ -1,7 +1,10 @@
+<div align="center">
+
 # 🎓 Faculty of Information Technology (DaiNam University)
 
 # ỨNG DỤNG TRA CỨU TỪ ĐIỂN ANH-VIỆT
 
+</div>
 <p align="center">
   <img src="aiotlab_logo.png" alt="AIoT Lab" width="150"/>
   <img src="fitdnu_logo.png" alt="FIT DNU" width="150"/>
