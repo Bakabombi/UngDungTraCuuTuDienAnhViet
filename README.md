@@ -8,7 +8,19 @@
   <img src="dnu_logo.png" alt="Dai Nam University" width="150"/>
 </p>
 
-**AIoTLab** – Faculty of Information Technology, DaiNam University
+---
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/AiOTLab-green?style=for-the-badge" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Faculty%20of%20Information%20Technology-blue?style=for-the-badge" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
