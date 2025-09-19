@@ -150,6 +150,8 @@ Giao diện dịch từ tiếng Việt sang tiếng Anh:
 ---
 
 ##### 📫 5. Liên hệ
+Họ tên: Nguyễn Khôi Nguyên
+Lớp: CNTT 16-01
 ✉️ Liên hệ email: ngkhoinguyen2912@gmail.com
 
 ---
