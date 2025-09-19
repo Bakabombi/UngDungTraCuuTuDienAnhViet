@@ -2,9 +2,11 @@
 
 # ỨNG DỤNG TRA CỨU TỪ ĐIỂN ANH-VIỆT
 
-![AIoTLab Logo]<img width="1508" height="1687" alt="image" src="https://github.com/user-attachments/assets/e8c508f6-80cd-484b-9077-e296e56cf2ca" />
- ![DaiNam University Logo]![Uploading image.png…]()
-
+<p align="center">
+  <img src="aiotlab_logo.png" alt="AIoT Lab" width="150"/>
+  <img src="fitdnu_logo.png" alt="FIT DNU" width="150"/>
+  <img src="dnu_logo.png" alt="Dai Nam University" width="150"/>
+</p>
 
 **AIoTLab** – Faculty of Information Technology, DaiNam University
 
