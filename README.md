@@ -125,7 +125,7 @@ java -cp "target/classes;lib/mysql-connector-java-8.0.33.jar" tudien.Client
 
 ---
 
-#### 4. 🖼️ Một số hình ảnh hệ thống
+## 4. 🖼️ Một số hình ảnh hệ thống
 💻 Đăng nhập/Đăng ký:
 
 <img width="263" height="170" alt="image" src="https://github.com/user-attachments/assets/fae47891-3d99-4b4f-bbef-7ba0408e2be6" /> <br> <br>
@@ -150,7 +150,7 @@ Giao diện dịch từ tiếng Việt sang tiếng Anh:
 
 ---
 
-##### 📫 5. Liên hệ
+## 📫 5. Liên hệ
 Họ tên: Nguyễn Khôi Nguyên
 
 Lớp: CNTT 16-01
